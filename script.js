@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { category: "game", title: "Color Vision Trainer", repoName: "color_vision_trainer", description: "Train your color perception skills.", tags: ["JavaScript", "Game", "Color Theory"] },
         { category: "game", title: "Memory Challenge", repoName: "memory_challenge", description: "A classic card matching memory game.", tags: ["JavaScript", "Game"] },
         { category: "game", title: "Bubble Game", repoName: "bubble_game", description: "A simple bubble popping game.", tags: ["JavaScript", "Game", "Canvas"] },
+        { category: "game", title: "Cosmic Cartographer", repoName: "cosmic_cartographer", description: "Scan star systems via diverse mini-games to map a space sector and earn a downloadable certificate.", tags: ["JavaScript", "Game", "Canvas","html2Canvas"] },
     ];
 
     const GITHUB_USERNAME = "prathameshvattamwar";
